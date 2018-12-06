@@ -17,6 +17,7 @@ public class Main {
 
     static SolutionOne sOne = new SolutionOne();
     static SolutionTwo sTwo = new SolutionTwo();
+
     public static void main(String[] args) {
         sOne.countWords(testString);
         sTwo.countWords(testString);
